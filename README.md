@@ -15,6 +15,6 @@
 1. Add training data as csv (x,y) under data/
 2. Set `input_filename` in code under the Training section.
 3. Open qr.ipynb
-4. (Optional) select QUANTILE_TO_VISUAIZE between \[0.1, 0.99\] under the Visualization section.
+4. (Optional) select `QUANTILE_TO_VISUAIZE` between \[0.1, 0.99\] under the Visualization section.
 5. Run > Run all cells
-6. Predictions are available at data/input_filename_predictions.csv and data/input_filename_predictions_pivoted.csv
+6. Predictions are available at **data/input_filename_predictions.csv** and **data/input_filename_predictions_pivoted.csv**
